@@ -3,8 +3,8 @@
 **# Draw graph from user input (User input number of entities and number of process and choose relation Between Them) , implemented with pure java .**
 
 # **Requirements**
-- java jdk .
-- ide .
+- java JDK 6 or more .
+- IDE .
 - clone project from githup.
 
 # **Data Flow Diagram Consist of four levels**  
