@@ -2,7 +2,7 @@
 
 **# Draw graph from user input (User input number of entities and number of process and choose relation Between Them) , implemented with pure java .**
 
-# **Requirements :**
+# **Requirements**
 - java jdk .
 - ide .
 - clone project from githup.
@@ -13,7 +13,7 @@
 - Level 2 .
 - User Graph Level .
 
-# **The following steps show how to draw graph from user input :** 
+# **The following steps show how to draw graph from user input** 
 1. User enter number of entities and name of them .
 2. in the first level user can draw only one process and its name in contextual level .
 3. user enter input that represent input Arrow and output that represent output Arrow .
@@ -21,9 +21,9 @@
 5. user select level to draw and program draw your graph automatically .
 6. user can take PNG image from graph result .
 
-# **The Following is some of application Demo :**
+# **The Following is some of application Demo**
 
-- ![selectlevel](https://cloud.githubusercontent.com/assets/11550708/18569956/8dcd88ee-7ba6-11e6-884a-b6841783639d.PNG)
 - ![flowdiagramwithdata](https://cloud.githubusercontent.com/assets/11550708/18569939/7f0573da-7ba6-11e6-9e96-092d8f9917e1.PNG)
+- ![selectlevel](https://cloud.githubusercontent.com/assets/11550708/18569956/8dcd88ee-7ba6-11e6-884a-b6841783639d.PNG)
 
 
