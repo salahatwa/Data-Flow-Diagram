@@ -19,3 +19,4 @@
 3. user enter input that represent input Arrow and output that represent output Arrow .
 4. user select relations between inputs and outputs process and entities .
 5. user select level to draw and program draw your graph automatically .
+6. user can take screen shot from graph result .
